@@ -12,7 +12,7 @@ I enjoy the defensive side of cybersecurity, and I also like conducting research
 
 ---
 
-## Research & Projects
+## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -24,10 +24,10 @@ I enjoy the defensive side of cybersecurity, and I also like conducting research
 
 ## Skills
 
-- **Programming & ML:** Python (pandas, scikit-learn, PyTorch) · Bash · SQL · Stable-Baselines3 · Gymnasium
+- **Programming & ML:** Python (pandas, scikit-learn, PyTorch) · Bash · SQL · Stable-Baselines3 
 - **Security:** Suricata · log analysis (nginx, eve.json) · Kali Linux · Ghidra · WinDbg · ClamAV · malware analysis basics
 - **DevOps & Data:** Docker Swarm · Kafka · GitHub Actions
-- **Tools & Languages:** Linux (Ubuntu) · VMware · Git/GitHub · LaTeX · English (reading technical documentation)
+- **Tools & Languages:** Linux (Ubuntu) · VMware · Git/GitHub · LaTeX · English
 
 ---
 
@@ -39,7 +39,7 @@ I enjoy the defensive side of cybersecurity, and I also like conducting research
 
 ---
 
-## Contact
+## About me
 
 - Email : thanhtiendo2k6@gmail.com
 - Phonenumbers : 0906032006
