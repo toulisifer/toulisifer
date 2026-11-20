@@ -20,9 +20,9 @@ I enjoy learning cybersecurity, and I also like conducting research.
 
 ## Skills
 
-- **Programming & ML:** Python (pandas, scikit-learn, PyTorch) · Bash · SQL · Stable-Baselines3 
-- **Security:** Suricata · log analysis (nginx, eve.json) · Kali Linux · Ghidra · WinDbg · ClamAV · malware analysis basics
-- **DevOps & Data:** Docker Swarm · Kafka · GitHub Actions
+- **Programming & Computer Science:** Python, Java, Scala (basic), C/C++, Data Structures & Algorithms, JSON Schema.
+- **Systems, Containers & Networking:**Linux (Ubuntu/Kali Linux), Windows Server, Docker (Containerization & Sandboxing), TCP/IP, VLAN, DHCP (Cisco Packet Tracer).
+- **Security & Analysis Tools:** Splunk (basic), Wireshark, Nmap, Burp Suite, Ghidra, Log Analysis.
 - **Tools & Languages:** Linux (Ubuntu) · VMware · Git/GitHub · LaTeX · English
 
 ---
