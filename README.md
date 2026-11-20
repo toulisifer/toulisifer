@@ -14,7 +14,7 @@ I enjoy learning cybersecurity, and I also like conducting research.
 
 ## Projects
 
-| Project | What it does | Stack |
+| Project | For What | Stack |
 |---|---|---|
 | [EduVie](https://github.com/toulisifer/EduVie) | AI learning assistant: textbook RAG with citations, quizzes, mastery tracking | FastAPI, ChromaDB, Gemini |
 | [Vera](https://github.com/toulisifer/Vera) | Checks claims in LLM explanations of decompiled binary functions | Python, Ghidra, Docker, Ollama |
