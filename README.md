@@ -31,7 +31,7 @@ I enjoy the defensive side of cybersecurity, and I also like conducting research
 
 ---
 
-## Certifications & Awards
+## Certifications
 
 - Applied Cryptography Specialization (4 courses), University of Colorado, Coursera (10/2026)
 - CertNexus Certified Ethical Emerging Technologist, Professional Certificate, Coursera (06/2026)
