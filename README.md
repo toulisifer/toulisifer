@@ -18,7 +18,6 @@ I enjoy learning cybersecurity, and I also like conducting research.
 |---|---|---|
 | [EduVie](https://github.com/toulisifer/EduVie) | AI learning assistant: textbook RAG with citations, quizzes, mastery tracking | FastAPI, ChromaDB, Gemini |
 | [Vera](https://github.com/toulisifer/Vera) | Checks claims in LLM explanations of decompiled binary functions | Python, Ghidra, Docker, Ollama |
-| [Ransomware Early Detection](https://github.com/toulisifer/Ransomware-Early-Detection-from-Behaviour-Logs) | Early ransomware detection from behaviour logs | Python, ... |
 
 ---
 
