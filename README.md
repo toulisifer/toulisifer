@@ -1,4 +1,4 @@
-# Hi there, I'm Do Tien Thanh
+# Hi there, It's me ! Do Tien Thanh
 
 **Studying at FPT University HCM**
 
