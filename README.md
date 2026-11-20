@@ -36,6 +36,8 @@ I enjoy learning cybersecurity, and I also like conducting research.
 - Applied Cryptography Specialization (4 courses), University of Colorado, Coursera (10/2026)
 - CertNexus Certified Ethical Emerging Technologist, Professional Certificate, Coursera (06/2026)
 - Generative AI for Security Fundamentals, Edureka, Coursera (06/2026)
+- Using Python to Access Web Data
+- Ethics of Artificial Intelligence
 
 ---
 
